@@ -1,2 +1,2 @@
-# ProyectoIntegraci-nJenkins
+# ProyectoIntegracionContinuaJenkins
 Proyecto integración continua. 
